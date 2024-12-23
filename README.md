@@ -40,7 +40,7 @@ Use the File Menu to create, open, or save text files.
 Access Edit Menu for Cut, Copy, and Paste functionalities.
 
 ## Ensure Python is Installed:
-git clone https://github.com/AqsaBatool885/Notepad.git
+git clone https://github.com/mehakmustafa18/note-pad-project.git
 
 cd Notepad
 
