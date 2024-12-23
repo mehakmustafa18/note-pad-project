@@ -1,4 +1,4 @@
-add readme file
+
 # Notepad Application
 
 A simple Notepad Application built with Python and Tkinter, designed for basic text editing tasks such as creating, opening, editing, and saving text files.
