@@ -64,18 +64,11 @@ git push origin feature-branch
 Submit pull request.
 ## Contact Information:
 
-03120758329
-
-03484741161
-
 03033703468
+
 ## Authors:
-Laiba Noreen,Aqsa Batool,Mehak Mustafa
+Mehak Mustafa
 ## Email:
-laibanoreen162@gmail.com
-
-batoolaqsa202@gmail.com
-
 mehakch160@gmail.com
 
 ## License
